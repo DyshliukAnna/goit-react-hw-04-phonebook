@@ -1,0 +1,9 @@
+.container {
+  border: 2px solid black;
+  max-width: 500px;
+  padding: 30px;
+}
+
+/* .input {
+  display: block;
+} */

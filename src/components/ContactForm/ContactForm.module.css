@@ -1,0 +1,22 @@
+.phonebookForm {
+  width: 400px;
+  padding: 20px;
+  border: solid 1px gray;
+}
+
+.phonebookForm button {
+  border: 2px solid black;
+  border-radius: 5px;
+  padding: 10px 20px;
+  background-color: rgb(255, 255, 255);
+}
+
+.phonebookFormItem {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.phonebookFormItem input {
+  margin-bottom: 10px;
+}
